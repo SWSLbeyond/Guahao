@@ -6,14 +6,14 @@ username: "13263378810"
 password: "woaiwoziji12"
 
 # date: 挂号日期
-date: "2018-07-02"
+date: "2018-09-25"
 
 
 # hospitalId: 医院id
-hospitalId: "1"
+hospitalId: "123"
 
 # departmentId: 科室id
-departmentId: "200003997"
+departmentId: "200001029"
 
 # 关于如何获取 hospitalId 和 departmentId
 # 1. 打开挂号页面
@@ -27,7 +27,7 @@ dutyCode: "1"
 
 # patientName: 患者姓名
 # 若是自己挂号可为空
-patientName: "延春旺"
+patientName: "吕晋芳"
 
 # doctorName: 医生姓名
 # 不填写的话默认选最好的医生
