@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8c2f241-4882-409d-a9c5-2f933372bd3f" name="Default Changelist" comment="咳咳">
+    <list default="true" id="a8c2f241-4882-409d-a9c5-2f933372bd3f" name="Default Changelist" comment="咳咳2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +23,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -32,6 +32,11 @@
         <option name="myModuleName" value="Guahao" />
       </console-settings>
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://gitee.com/liujiayang/BeiQi_C40D.git" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -55,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537151541072</updated>
-      <workItem from="1571285157669" duration="3456000" />
+      <workItem from="1571285157669" duration="3967000" />
+      <workItem from="1571291639561" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="nothing">
       <created>1537156567994</created>
@@ -92,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571285457859</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="咳咳2">
+      <created>1571291202327</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571291202327</updated>
+    </task>
+    <task id="LOCAL-00007" summary="咳咳2">
+      <created>1571291242621</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571291242621</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -119,12 +139,33 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nothing" />
     <MESSAGE value="nothing2" />
     <MESSAGE value="Default Changelist" />
     <MESSAGE value="咳咳" />
-    <option name="LAST_COMMIT_MESSAGE" value="咳咳" />
+    <MESSAGE value="咳咳2" />
+    <option name="LAST_COMMIT_MESSAGE" value="咳咳2" />
   </component>
 </project>
